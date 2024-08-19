@@ -15,9 +15,10 @@
   <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kitoha&show_icons=true&theme=vue) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kth004)](https://solved.ac/kth004)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kitoha&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitoha&theme=vue&layout=compact&card_width=380)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitoha&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kth004)](https://solved.ac/kth004) [![Leetcode Stats](https://leetcard.jacoblin.cool/kitoha?theme=unicorn&width=500&height=170)](https://leetcode.com/kitoha)
+
 
 <!--
 **kitoha/kitoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
