@@ -3,6 +3,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kth004)](https://solved.ac/kth004)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitoha&theme=dark)
+
 <!--
 **kitoha/kitoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
