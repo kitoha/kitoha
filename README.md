@@ -1,31 +1,75 @@
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JPA-02A8EF?style=flat-square"/></a>&nbsp
-  <img src="https://img.shields.io/badge/QueryDSL-5395FD?style=flat-square"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Spock-9558B2?style=flat-square"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=junit5a&logoColor=white"/>
-   
-</p>
+<div align="center">
+  <h1>👋 Hello, I’m TeaWhan Kim (kitoha)</h1>
+  <h3>A Backend & Dev Platform Engineer</h3>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Backend Dev Animation" width="400"/>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kitoha&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitoha&theme=vue&layout=compact&card_width=380)
+---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kth004)](https://solved.ac/kth004) [![Leetcode Stats](https://leetcard.jacoblin.cool/kitoha?theme=unicorn&width=500&height=170)](https://leetcode.com/kitoha)
+### 🌟 Who I Am
+I’m a backend engineer with a passion for learning about open source and exploring a wide range of projects.
+I’m always eager to challenge myself, grow as a developer, and collaborate with others to build meaningful software.
 
+- 🛠️ **Core Expertise**: **JAVA** , **Kotlin**, **Spring Boot**, **QueryDSL**, **Kafka**, **Elasticsearch**
+- 🗄️ **Datastores**: **MySQL**, **Redis**, **Apache Cassandra**
+- ☁️ **DevOps/Infra**: **Docker**, **AWS (VPC, S3, ALB)**
+
+---
+
+### 🌍 Connect With Me
+<div align="center">
+  <a href="https://kitoha.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Blog"/>
+  </a>
+</div>
+
+---
+
+### 🧰 My Development Toolkit, Technology & Skills
+<div align="center">
+
+<!-- Core / Backend -->
+<img src="https://skillicons.dev/icons?i=kotlin,java,spring,gradle,git" />
+
+<!-- Databases & Messaging -->
+<img src="https://skillicons.dev/icons?i=mysql,redis,cassandra,kafka,elastic" />
+
+<!-- DevOps / Cloud -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+
+<!-- Frontend bits -->
+<img src="https://skillicons.dev/icons?i=ts,react,tailwind" />
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=intellij,vscode,postman" />
+
+</div>
+
+---
+
+### 📈 GitHub Insights
+<div align="center">
+  <!-- Most-used languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitoha&layout=compact&hide=jupyter%20notebook&theme=react&card_width=350" alt="Top Languages"/>
+  &nbsp;&nbsp;&nbsp;<!-- optional spacing -->
+  <!-- General stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kitoha&show_icons=true&count_private=true&theme=react" alt="GitHub Stats"/>
+</div>
+
+---
+
+### 🏆 Algorithmic Profiles
+<div align="center">
+  <a href="https://solved.ac/kth004" target="_blank">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=kth004" alt="Solved.ac Profile"/>
+  </a>
+  <a href="https://leetcode.com/kitoha" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/kitoha?theme=dark&width=500&height=170" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+---
 
 <!--
 **kitoha/kitoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
