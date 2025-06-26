@@ -64,10 +64,12 @@ I’m always eager to challenge myself, grow as a developer, and collaborate wit
   <a href="https://solved.ac/kth004" target="_blank">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=kth004" alt="Solved.ac Profile"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/kitoha" target="_blank">
     <img src="https://leetcard.jacoblin.cool/kitoha?theme=dark&width=500&height=170" alt="LeetCode Stats"/>
   </a>
 </div>
+
 
 ---
 
