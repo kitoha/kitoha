@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>👋 Hello, I’m TeaWhan Kim (kitoha)</h1>
-  <h3>A Backend Engineer</h3>
+  <h3>Backend Engineer</h3>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Backend Dev Animation" width="400"/>
 </div>
 
