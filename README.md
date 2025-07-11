@@ -70,6 +70,13 @@ I’m always eager to challenge myself, grow as a developer, and collaborate wit
   </a>
 </div>
 
+### 🚀 Open Source Contributions
+
+- [apache/gravitino](https://github.com/apache/gravitino)
+  - Fix Deduplicate supportPartitions() call [#7539](https://github.com/apache/gravitino/pull/7539)
+
+- [apache/lucene](https://github.com/apache/lucene)
+  - Fix Deprecate MergeSpecification#segString [#14908](https://github.com/apache/lucene/pull/14908)
 
 ---
 
