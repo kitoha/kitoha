@@ -77,6 +77,7 @@ I’m always eager to challenge myself, grow as a developer, and collaborate wit
   - remove duplicate MODEL in CommandEntities.java [#7664](https://github.com/apache/gravitino/pull/7677)
   - remove duplicate properties code [#7678](https://github.com/apache/gravitino/pull/7678)
   - Use Path + Files.newInputStream with try-with-resources in GCSTokenProvider [#7715](https://github.com/apache/gravitino/pull/7715)
+  - Fix If commit and rollback fails, session close and threadLocal remove. [#8165](https://github.com/apache/gravitino/pull/8210)
 
 - [apache/lucene](https://github.com/apache/lucene)
   - Fix Deprecate MergeSpecification#segString [#14908](https://github.com/apache/lucene/pull/14908)
