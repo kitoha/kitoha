@@ -53,8 +53,6 @@ I’m always eager to challenge myself, grow as a developer, and collaborate wit
   <!-- Most-used languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitoha&layout=compact&hide=jupyter%20notebook&theme=react&card_width=350" alt="Top Languages"/>
   &nbsp;&nbsp;&nbsp;<!-- optional spacing -->
-  <!-- General stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kitoha&show_icons=true&count_private=true&theme=react" alt="GitHub Stats"/>
 </div>
 
 ---
