@@ -49,11 +49,7 @@ I’m always eager to challenge myself, grow as a developer, and collaborate wit
 ---
 
 ### 📈 GitHub Insights
-<div align="center">
-  <!-- Most-used languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitoha&layout=compact&hide=jupyter%20notebook&theme=react&card_width=350" alt="Top Languages"/>
-  &nbsp;&nbsp;&nbsp;<!-- optional spacing -->
-</div>
+
 
 ---
 
