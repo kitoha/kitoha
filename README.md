@@ -51,6 +51,7 @@ I’m always eager to challenge myself, grow as a developer, and collaborate wit
 ### 📈 GitHub Insights
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kitoha&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### 🏆 Algorithmic Profiles
